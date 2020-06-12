@@ -21,4 +21,4 @@ After invoking `updateBasePath` from the above example, the index.html file will
 `<base href="https://mycdn.example.com/some-folder/" />`
 
 
-#### License: MIT (https://mit-license.kcak11.com)
+#### License: MIT (<a href="https://mit-license.kcak11.com">https://mit-license.kcak11.com</a>)
