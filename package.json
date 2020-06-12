@@ -11,5 +11,6 @@
     "basepath"
   ],
   "author": "K.C.Ashish Kumar",
+  "repository": "https://github.com/npx-bin/angular-cdnify.git",
   "license": "MIT"
 }
