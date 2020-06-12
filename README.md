@@ -19,3 +19,6 @@ e.g.: `<base href="{[BASE_PATH]}" />`
 
 After invoking `updateBasePath` from the above example, the index.html file will be updated as below:  
 `<base href="https://mycdn.example.com/some-folder/" />`
+
+
+#### License: MIT (https://mit-license.kcak11.com)
